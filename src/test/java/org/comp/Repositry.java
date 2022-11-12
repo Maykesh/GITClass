@@ -30,4 +30,8 @@ public class Repositry {
 
 		System.out.println("car");
 	}
+	public void LorryModel() {
+
+		System.out.println("lorry");
+	}
 }
